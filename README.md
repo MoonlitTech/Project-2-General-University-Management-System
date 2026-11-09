@@ -1,1 +1,1 @@
-# Project-2---General-University-Management-System
+# Project 2 - General University Management System 
