@@ -35,6 +35,21 @@ The system must satisfy the following requirements:
 3. **Course Information:** Provide functions to display all available courses and a student's currently registered courses.
 4. **Single Inheritance:** Use single inheritance to demonstrate the concept of inheritance.
 
+## How to Run the Project
+
+1. Download and extract the project ZIP file.
+2. Open the extracted project folder in IntelliJ IDEA.
+3. Make sure Java 21 and Maven are installed.
+4. Allow Maven to load the project dependencies.
+5. Open the Maven panel and run `clean` followed by `compile`.
+6. Run the project using the Maven command:
+
+   ```powershell
+   mvn javafx:run
+   ```
+
+7. The University Management System GUI should open.
+
 Completed by: 
 - Morgan Anthony 
 - Brianna Williams 
