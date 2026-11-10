@@ -18,6 +18,8 @@ For the **General University Management System** defined as follows: implement t
 - An **MS** student can register for courses and an MS project.
 - A **PhD** student can register for courses, an MS project, and a PhD dissertation.
 
+Mermaid.live was used to generate the UML diagram. 
+
 Completed by: 
 - Morgan Anthony 
 - Brianna Williams 
