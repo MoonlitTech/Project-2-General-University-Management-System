@@ -8,15 +8,32 @@ Due Date: November 9
 
 ## Objective
 
-Learn object-oriented programming concepts, including inheritance, and practice building a graphical user interface (GUI).
+The objective of this project is to practice object-oriented programming concepts, including abstraction, encapsulation, inheritance, and polymorphism. Inheritance allows new types to be created from an existing parent type by inheriting, modifying, or adding components and operations. This supports code reuse during software development.
 
-Assignment: An object-oriented language supports abstraction, encapsulation, inheritance, and polymorphism. Inheritance builds new types from an existing parent type by inheriting, modifying, or adding to its components and operations, which greatly supports reuse. A GUI gives users a friendly environment for entering and viewing information. For the General University Management System, a user must be able to add students of three types (Undergraduate, MS, and PhD), register them for courses, projects, and dissertations, and view their information, all through a GUI, using single inheritance to model the student types.
+The project also provides experience developing a Graphical User Interface (GUI) that creates a user-friendly environment for entering information and displaying results.
 
-For the **General University Management System** defined as follows: implement the system in **Java** with a **JavaFX** GUI. A student has a last name, first name, phone number, ID, and address.
+## Project Description
 
-- An **Undergraduate** student can only register for courses.
-- An **MS** student can register for courses and an MS project.
-- A **PhD** student can register for courses, an MS project, and a PhD dissertation.
+Design and implement a General University Management System using single inheritance. The system supports three types of students: Undergraduate, MS, and PhD students.
+
+Each student has the following basic information:
+
+- Last name
+- First name
+- Phone number
+- Student ID
+- Address
+
+The system allows users to add new students and view student information, including GPA, course grades, and enrolled courses.
+
+## Project Requirements
+
+The system must satisfy the following requirements:
+
+1. **Graphical User Interface:** Develop a GUI that allows users to enter the required information and display the results.
+2. **Course Registration Display:** When a course is registered, display the student's last name, first name, ID number, and all registered courses.
+3. **Course Information:** Provide functions to display all available courses and a student's currently registered courses.
+4. **Single Inheritance:** Use single inheritance to demonstrate the concept of inheritance.
 
 Completed by: 
 - Morgan Anthony 
